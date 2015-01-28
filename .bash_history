@@ -190,3 +190,5 @@ git commit
 git status
 git commit
 git push
+scp -r shuan43@dutch.mathcs.emory.edu:/home/shuan43/twitterClone ~ezhou3
+ls
